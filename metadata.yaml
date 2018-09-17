@@ -1,6 +1,9 @@
 _repo: Kahden-vuoden-loma-aika_52054
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Deux ans de vacances. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -17,6 +20,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52054#Kahden-vuoden-loma-aika
 gutenberg_issued: '2016-05-12'
 gutenberg_type: Text
 identifiers:
