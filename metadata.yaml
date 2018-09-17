@@ -1,0 +1,38 @@
+_repo: Kahden-vuoden-loma-aika_52054
+_version: 0.0.1
+alternative_title: Deux ans de vacances. Finnish
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2016-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52054'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'South Pacific Ocean -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Survival -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Castaways -- Fiction'
+- GITenberg
+title: Kahden vuoden loma-aika
+url: http://www.gutenberg.org/ebooks/52054
